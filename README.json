@@ -843,7 +843,7 @@
             "last_commit": "2018-07-02T12:43:03Z",
             "owner": "kevinzhow",
             "repo": "PNChart",
-            "stars": 9646
+            "stars": 9645
           }
         },
         {
@@ -1155,7 +1155,7 @@
             "last_commit": "2023-09-11T06:19:55Z",
             "owner": "Tencent",
             "repo": "MLeaksFinder",
-            "stars": 5433
+            "stars": 5432
           }
         },
         {
@@ -1170,7 +1170,7 @@
             "last_commit": "2026-06-26T01:39:56Z",
             "owner": "facebook",
             "repo": "FBRetainCycleDetector",
-            "stars": 4232
+            "stars": 4231
           }
         },
         {
@@ -2032,7 +2032,7 @@
             "last_commit": "2026-06-14T23:57:29Z",
             "owner": "realm",
             "repo": "realm-swift",
-            "stars": 16615
+            "stars": 16616
           }
         },
         {
@@ -2047,7 +2047,7 @@
             "last_commit": "2026-03-15T21:06:50Z",
             "owner": "ccgus",
             "repo": "fmdb",
-            "stars": 13839
+            "stars": 13838
           }
         },
         {
@@ -2995,7 +2995,7 @@
             "last_commit": "2025-08-12T11:43:04Z",
             "owner": "didi",
             "repo": "DoKit",
-            "stars": 20408
+            "stars": 20407
           }
         },
         {
@@ -3010,7 +3010,7 @@
             "last_commit": "2026-06-11T20:34:01Z",
             "owner": "FLEXTool",
             "repo": "FLEX",
-            "stars": 14629
+            "stars": 14628
           }
         },
         {
@@ -3382,7 +3382,7 @@
             "last_commit": "2025-09-10T15:36:04Z",
             "owner": "Carthage",
             "repo": "Carthage",
-            "stars": 15169
+            "stars": 15168
           }
         },
         {
@@ -5314,7 +5314,7 @@
             "last_commit": "2023-04-13T18:23:56Z",
             "owner": "SnapKit",
             "repo": "Masonry",
-            "stars": 18135
+            "stars": 18134
           }
         },
         {
@@ -5941,7 +5941,7 @@
             "last_commit": "2026-08-12T06:31:06Z",
             "owner": "CocoaLumberjack",
             "repo": "CocoaLumberjack",
-            "stars": 13327
+            "stars": 13326
           }
         },
         {
@@ -6229,10 +6229,10 @@
             "archived": false,
             "id": 45717250,
             "language": "C++",
-            "last_commit": "2026-08-19T12:33:04Z",
+            "last_commit": "2026-08-19T13:58:22Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197061
+            "stars": 197065
           }
         },
         {
@@ -6669,7 +6669,7 @@
                 "archived": false,
                 "id": 1006258471,
                 "language": "Swift",
-                "last_commit": "2026-08-19T08:11:04Z",
+                "last_commit": "2026-08-19T13:56:57Z",
                 "owner": "FluidInference",
                 "repo": "FluidAudio",
                 "stars": 2659
@@ -8409,7 +8409,7 @@
                 "last_commit": "2022-07-21T22:10:51Z",
                 "owner": "sahin",
                 "repo": "mobileplayer-ios",
-                "stars": 3074
+                "stars": 3075
               }
             },
             {
@@ -8801,7 +8801,7 @@
             "last_commit": "2026-08-03T01:00:57Z",
             "owner": "Alamofire",
             "repo": "Alamofire",
-            "stars": 42416
+            "stars": 42415
           }
         },
         {
@@ -8831,7 +8831,7 @@
             "last_commit": "2026-06-23T18:02:32Z",
             "owner": "robbiehanson",
             "repo": "CocoaAsyncSocket",
-            "stars": 12454
+            "stars": 12453
           }
         },
         {
@@ -9498,10 +9498,10 @@
             "archived": false,
             "id": 29887499,
             "language": null,
-            "last_commit": "2026-08-18T20:37:17Z",
+            "last_commit": "2026-08-19T13:11:29Z",
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 51757
+            "stars": 51758
           }
         },
         {
@@ -9801,7 +9801,7 @@
                 "last_commit": "2024-03-13T05:26:26Z",
                 "owner": "CoderMJLee",
                 "repo": "MJExtension",
-                "stars": 8494
+                "stars": 8493
               }
             },
             {
@@ -10675,7 +10675,7 @@
             "archived": false,
             "id": 129699403,
             "language": "Swift",
-            "last_commit": "2026-08-19T12:32:56Z",
+            "last_commit": "2026-08-19T13:58:41Z",
             "owner": "tuist",
             "repo": "tuist",
             "stars": 5769
@@ -11427,7 +11427,7 @@
                 "archived": false,
                 "id": 6656911,
                 "language": "Swift",
-                "last_commit": "2026-08-19T03:46:01Z",
+                "last_commit": "2026-08-19T13:59:02Z",
                 "owner": "stripe",
                 "repo": "stripe-ios",
                 "stars": 2564
@@ -12245,7 +12245,7 @@
             "archived": false,
             "id": 49910095,
             "language": "Swift",
-            "last_commit": "2026-08-19T11:54:30Z",
+            "last_commit": "2026-08-19T13:08:22Z",
             "owner": "vapor",
             "repo": "vapor",
             "stars": 26189
@@ -14634,7 +14634,7 @@
                 "last_commit": "2024-08-14T01:48:59Z",
                 "owner": "jdg",
                 "repo": "MBProgressHUD",
-                "stars": 15935
+                "stars": 15934
               }
             },
             {
@@ -15286,7 +15286,7 @@
                 "last_commit": "2026-07-08T13:57:38Z",
                 "owner": "airbnb",
                 "repo": "lottie-ios",
-                "stars": 26838
+                "stars": 26837
               }
             },
             {
@@ -15391,7 +15391,7 @@
                 "last_commit": "2018-01-04T04:22:10Z",
                 "owner": "jhurray",
                 "repo": "JHChainableAnimations",
-                "stars": 3203
+                "stars": 3202
               }
             },
             {
@@ -19809,7 +19809,7 @@
                 "last_commit": "2025-10-22T18:52:37Z",
                 "owner": "Mijick",
                 "repo": "Popups",
-                "stars": 1815
+                "stars": 1816
               }
             },
             {
@@ -19951,7 +19951,7 @@
                 "last_commit": "2025-11-11T04:44:40Z",
                 "owner": "CoderMJLee",
                 "repo": "MJRefresh",
-                "stars": 13814
+                "stars": 13813
               }
             },
             {
@@ -21381,7 +21381,7 @@
                     "last_commit": "2024-05-19T14:19:08Z",
                     "owner": "SwipeCellKit",
                     "repo": "SwipeCellKit",
-                    "stars": 6284
+                    "stars": 6285
                   }
                 },
                 {
@@ -24253,7 +24253,7 @@
             "last_commit": "2024-10-10T10:54:11Z",
             "owner": "SvenTiigi",
             "repo": "WhatsNewKit",
-            "stars": 4420
+            "stars": 4422
           }
         },
         {
@@ -24595,7 +24595,7 @@
             "last_commit": "2025-12-04T01:29:19Z",
             "owner": "facebookincubator",
             "repo": "SocketRocket",
-            "stars": 9614
+            "stars": 9613
           }
         },
         {
@@ -24610,7 +24610,7 @@
             "last_commit": "2024-05-16T21:37:05Z",
             "owner": "daltoniam",
             "repo": "Starscream",
-            "stars": 8646
+            "stars": 8645
           }
         },
         {
@@ -24808,10 +24808,10 @@
             "archived": false,
             "id": 41870517,
             "language": "Swift",
-            "last_commit": "2026-08-19T08:54:36Z",
+            "last_commit": "2026-08-19T13:48:49Z",
             "owner": "facebook",
             "repo": "idb",
-            "stars": 5279
+            "stars": 5281
           }
         },
         {
@@ -25887,7 +25887,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:34:04.470Z",
+    "last_updated": "2026-08-19T13:59:51.514Z",
     "original_repository": "vsouza/awesome-ios",
     "original_repository_id": 21700699,
     "original_repository_sha": "0c8131c4cbf5c8b6d5c54c23e2ee0fbbbe2b8394",
